@@ -4,6 +4,7 @@
   
 #Requirements
   !pip install regex
+  
   !pip install -q torch==1.0.0 torchvision
   !pip install tensorboardX
   
